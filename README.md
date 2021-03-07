@@ -1,4 +1,10 @@
 # pandas-challenge
+Observable Trends:
+
+1. The vast majority of players are Male with 484 followed by a distant 81 females as well as a menial 11 non-disclosed gender players. One could surmise there is a large population that is not being marketed to where profit could be captured. This company would do well to analyze what female and non disclosed genders look for in a game such as this to drive market share and increase profit. 
+2. Most players fall into the 20-24 category. We see a sharp dip in players in the 25-29 category. There could be several reasons behind this - increasing family respoinsibility, career, etc.. it could potentially be a worthwhile investment to find out if this age group simply migrates to another game of similar type. How can we keep our players of a longer period of time?
+3. The most profitable items almost exactly match the most popular items. What is causing this correlation? Can we increase the popularity of other items to increase profitability on those items? Are these items more powerful, visually appealing etc.. find out why the top items are there, and apply that to the least popular items. 
+
 
 Heroes of Pymoli
 
